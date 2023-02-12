@@ -1,2 +1,1 @@
-# PREPCOURSE-HENRY-NEW
-ESTE ES UN NUEVO REPOSITORIO NUEVO PORQUE NO PUDE CAMBIAR EL PRIMER PROYECTO
+esta es mi segunda prueba de como crear un repositorio y clonarlo desde hithub a mi computadora
